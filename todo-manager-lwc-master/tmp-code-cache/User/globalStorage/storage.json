@@ -1,0 +1,70 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///c%3A/Users/shirash/Downloads/ProjectShiraToDoManager": "__default__profile__",
+            "file:///c%3A/Users/shirash/Downloads/JS/todo-manager-lwc-master": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1695540116916": "__default__profile__"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.machineId": "637ce9f8932b2914c0abc375a58ab396d6a0c2d1594f7debdd7dc6fb413efba9",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///c%3A/Users/shirash/Downloads/ProjectShiraToDoManager"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/shirash/Downloads/JS/todo-manager-lwc-master"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1695540116916"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "activityBarBackground": "#181818",
+            "sideBarBackground": "#181818",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/shirash/Downloads/JS/todo-manager-lwc-master",
+            "backupPath": "C:\\Users\\shirash\\Downloads\\JS\\todo-manager-lwc-master\\tmp-code-cache\\Backups\\1683bd53265e2950c105ac37c054b014",
+            "uiState": {
+                "mode": 0,
+                "x": 131,
+                "y": 84,
+                "width": 1025,
+                "height": 769
+            }
+        },
+        "openedWindows": []
+    }
+}

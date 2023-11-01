@@ -1,0 +1,15 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::        (v2.3.3.RELEASE)
+
+Sep 24, 2023 10:28:28 AM org.springframework.boot.StartupInfoLogger logStarting
+INFO: Starting ServerLauncher on SHIRASH-LAP-HZ with PID 4932 (C:\Users\shirash\.vscode\extensions\salesforce.salesforce-vscode-slds-1.4.8\lsp-0.0.13-executable.jar started by shirash in c:\Users\shirash\Downloads\JS\todo-manager-lwc-master)
+Sep 24, 2023 10:28:28 AM org.springframework.boot.SpringApplication logStartupProfileInfo
+INFO: No active profile set, falling back to default profiles: default
+Sep 24, 2023 10:28:30 AM org.springframework.boot.StartupInfoLogger logStarted
+INFO: Started ServerLauncher in 3.454 seconds (JVM running for 4.586)

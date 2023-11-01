@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Areas__c</fullName>
+    <externalId>false</externalId>
+    <label>תחום</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>MultiselectPicklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>מערכות הנעה ודלק</fullName>
+                <default>false</default>
+                <label>מערכות הנעה ודלק</label>
+            </value>
+            <value>
+                <fullName>מערכות מכניות של כלי טיס</fullName>
+                <default>false</default>
+                <label>מערכות מכניות של כלי טיס</label>
+            </value>
+            <value>
+                <fullName>עומסים פרפור וחוזק</fullName>
+                <default>false</default>
+                <label>עומסים פרפור וחוזק</label>
+            </value>
+            <value>
+                <fullName>בטיחות מבצעית נמשכת של כלי טיס</fullName>
+                <default>false</default>
+                <label>בטיחות מבצעית נמשכת של כלי טיס</label>
+            </value>
+            <value>
+                <fullName>מערכות מכניות</fullName>
+                <default>false</default>
+                <label>מערכות מכניות</label>
+            </value>
+            <value>
+                <fullName>בטיחות תא נוסעים ומטען</fullName>
+                <default>false</default>
+                <label>בטיחות תא נוסעים ומטען</label>
+            </value>
+            <value>
+                <fullName>מערכות אוויוניקה</fullName>
+                <default>false</default>
+                <label>מערכות אוויוניקה</label>
+            </value>
+            <value>
+                <fullName>תוכנה</fullName>
+                <default>false</default>
+                <label>תוכנה</label>
+            </value>
+            <value>
+                <fullName>חומרה</fullName>
+                <default>false</default>
+                <label>חומרה</label>
+            </value>
+            <value>
+                <fullName>מערכות חשמל ואוויוניקה</fullName>
+                <default>false</default>
+                <label>מערכות חשמל ואוויוניקה</label>
+            </value>
+            <value>
+                <fullName>מערכי כטב&quot;מ אזרחיים</fullName>
+                <default>false</default>
+                <label>מערכי כטב&quot;מ אזרחיים</label>
+            </value>
+            <value>
+                <fullName>מחקרי תעופה</fullName>
+                <default>false</default>
+                <label>מחקרי תעופה</label>
+            </value>
+            <value>
+                <fullName>טייס ניסוי</fullName>
+                <default>false</default>
+                <label>טייס ניסוי</label>
+            </value>
+            <value>
+                <fullName>ניסויי ומדעי הטיסה</fullName>
+                <default>false</default>
+                <label>ניסויי ומדעי הטיסה</label>
+            </value>
+            <value>
+                <fullName>בקרת טיסה פיתוח וניסויים</fullName>
+                <default>false</default>
+                <label>בקרת טיסה פיתוח וניסויים</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+    <visibleLines>4</visibleLines>
+</CustomField>

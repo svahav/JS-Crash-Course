@@ -1,0 +1,37 @@
+2023-09-24 10:22:01.040 [info] Log level: Info
+2023-09-24 10:22:01.040 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2023-09-24 10:22:01.040 [info] Using git "2.41.0.windows.3" from "C:\Program Files\Git\cmd\git.exe"
+2023-09-24 10:27:27.217 [info] Log level: Info
+2023-09-24 10:27:27.217 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2023-09-24 10:27:27.217 [info] Using git "2.41.0.windows.3" from "C:\Program Files\Git\cmd\git.exe"
+2023-09-24 10:27:27.261 [info] > git rev-parse --show-toplevel [166ms]
+2023-09-24 10:27:27.261 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-24 10:27:28.288 [info] > git rev-parse --show-toplevel [240ms]
+2023-09-24 10:27:28.288 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-24 10:27:28.713 [info] > git rev-parse --show-toplevel [183ms]
+2023-09-24 10:27:28.713 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-24 10:27:29.075 [info] > git rev-parse --show-toplevel [298ms]
+2023-09-24 10:27:29.075 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-24 10:27:29.482 [info] > git rev-parse --show-toplevel [396ms]
+2023-09-24 10:27:29.482 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-24 10:27:49.786 [info] > git rev-parse --show-toplevel [20237ms]
+2023-09-24 10:27:49.786 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-24 10:27:53.174 [info] > git rev-parse --show-toplevel [2570ms]
+2023-09-24 10:27:53.175 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-24 10:27:54.470 [info] > git rev-parse --show-toplevel [391ms]
+2023-09-24 10:27:54.470 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-24 10:27:54.777 [info] > git rev-parse --show-toplevel [264ms]
+2023-09-24 10:27:54.777 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-09-24 10:28:13.603 [info] Log level: Info
+2023-09-24 10:28:13.603 [info] Validating found git in: "C:\Program Files\Git\cmd\git.exe"
+2023-09-24 10:28:13.645 [info] Using git "2.41.0.windows.3" from "C:\Program Files\Git\cmd\git.exe"
+2023-09-24 10:28:13.800 [info] > git rev-parse --show-toplevel [140ms]
+2023-09-24 10:28:13.906 [info] > git rev-parse --show-toplevel [99ms]
+2023-09-24 10:28:14.012 [info] > git rev-parse --show-toplevel [101ms]
+2023-09-24 10:28:14.141 [info] > git rev-parse --show-toplevel [124ms]
+2023-09-24 10:28:14.294 [info] > git rev-parse --show-toplevel [142ms]
+2023-09-24 10:28:26.069 [info] > git rev-parse --show-toplevel [321ms]
+2023-09-24 10:29:00.885 [info] > git rev-parse --show-toplevel [191ms]
+2023-09-24 10:29:31.511 [info] > git rev-parse --show-toplevel [193ms]
+2023-09-24 10:29:32.447 [info] > git rev-parse --show-toplevel [360ms]
+2023-09-24 10:29:33.059 [info] > git rev-parse --show-toplevel [244ms]

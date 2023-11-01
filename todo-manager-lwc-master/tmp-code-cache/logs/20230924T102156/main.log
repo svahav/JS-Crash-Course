@@ -1,0 +1,7 @@
+2023-09-24 10:21:56.924 [info] update#setState idle
+2023-09-24 10:21:59.729 [info] WSL is not installed, so could not detect WSL profiles
+2023-09-24 10:22:26.915 [info] update#setState checking for updates
+2023-09-24 10:22:27.162 [info] update#setState idle
+2023-09-24 10:26:39.848 [info] Extension host with pid 14508 exited with code: 0, signal: unknown.
+2023-09-24 10:28:14.293 [info] Extension host with pid 10244 exited with code: 0, signal: unknown.
+2023-09-24 10:29:40.199 [info] Extension host with pid 13832 exited with code: 0, signal: unknown.

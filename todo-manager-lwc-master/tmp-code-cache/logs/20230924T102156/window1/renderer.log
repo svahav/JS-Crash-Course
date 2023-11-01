@@ -1,0 +1,24 @@
+2023-09-24 10:22:02.474 [info] [perf] Render performance baseline is 50ms
+2023-09-24 10:26:38.539 [info] [perf] Render performance baseline is 65ms
+2023-09-24 10:26:39.644 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:26:45.097 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:26:45.187 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:26:46.365 [info] Not activating extension 'salesforce.salesforcedx-vscode-lwc': Timed out while searching for 'workspaceContains' pattern **/workspace-user.xml
+2023-09-24 10:26:51.948 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:01.508 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:02.102 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:09.745 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:09.790 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:15.616 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:15.736 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:18.149 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:25.799 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:26.841 [error] [Extension Host] (node:10244) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added to [process]. Use emitter.setMaxListeners() to increase limit
+(Use `Code --trace-warnings ...` to show where the warning was created)
+2023-09-24 10:27:29.620 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:29.625 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:38.760 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:27:48.932 [error] [Extension Host] Cannot find en-us, defaulting to en
+2023-09-24 10:28:13.323 [info] [perf] Render performance baseline is 89ms
+2023-09-24 10:28:41.099 [error] [Extension Host] (node:13832) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)

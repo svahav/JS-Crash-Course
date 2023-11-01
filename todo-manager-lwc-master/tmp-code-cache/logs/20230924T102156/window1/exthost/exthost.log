@@ -1,0 +1,121 @@
+2023-09-24 10:22:00.011 [info] Extension host with pid 14508 started
+2023-09-24 10:22:00.337 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-09-24 10:22:00.493 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-24 10:22:00.550 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-24 10:22:00.697 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-24 10:22:00.822 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-24 10:22:01.028 [info] Eager extensions activated
+2023-09-24 10:22:01.046 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:22:01.054 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:22:01.107 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:22:01.153 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:22:01.206 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:22:01.342 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:22:03.442 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-24 10:22:03.620 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-24 10:22:03.835 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-24 10:26:34.787 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-24 10:26:36.342 [info] Extension host with pid 10244 started
+2023-09-24 10:26:36.343 [info] Skipping acquiring lock for c:\Users\shirash\Downloads\JS\todo-manager-lwc-master\tmp-code-cache\User\workspaceStorage\a6adbf7b2daa25defde50fe8cc193c80.
+2023-09-24 10:26:36.369 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-09-24 10:26:36.448 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-24 10:26:36.458 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-09-24 10:26:36.661 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-24 10:26:36.743 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-24 10:26:36.865 [info] Eager extensions activated
+2023-09-24 10:26:36.873 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:26:36.877 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:26:36.889 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:26:36.906 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:26:39.351 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-09-24 10:26:39.527 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:26:39.546 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:26:39.580 [info] ExtensionService#_doActivateExtension salesforce.salesforcedx-vscode-apex, startup: false, activationEvent: 'workspaceContains:sfdx-project.json'
+2023-09-24 10:26:39.847 [info] Extension host with pid 14508 exiting with code 0
+2023-09-24 10:26:45.133 [warning] DiagnosticCollection with name 'apex-errors' does already exist.
+2023-09-24 10:26:45.134 [warning] DiagnosticCollection with name 'apex-errors' does already exist.
+2023-09-24 10:26:45.134 [warning] DiagnosticCollection with name 'apex-errors' does already exist.
+2023-09-24 10:26:45.144 [info] ExtensionService#_doActivateExtension salesforce.salesforcedx-vscode-core, startup: false, activationEvent: 'workspaceContains:sfdx-project.json', root cause: salesforce.salesforcedx-vscode-apex-debugger
+2023-09-24 10:27:01.531 [info] ExtensionService#_doActivateExtension salesforce.salesforcedx-vscode-lightning, startup: false, activationEvent: 'workspaceContains:sfdx-project.json'
+2023-09-24 10:27:09.744 [info] ExtensionService#_doActivateExtension salesforce.salesforcedx-vscode-soql, startup: false, activationEvent: 'workspaceContains:sfdx-project.json'
+2023-09-24 10:27:17.132 [info] ExtensionService#_doActivateExtension salesforce.salesforcedx-vscode-lwc, startup: false, activationEvent: 'workspaceContains:sfdx-project.json'
+2023-09-24 10:27:28.560 [info] ExtensionService#_doActivateExtension redhat.vscode-xml, startup: false, activationEvent: 'api', root cause: salesforce.salesforcedx-vscode-lwc
+2023-09-24 10:27:29.099 [info] ExtensionService#_doActivateExtension salesforce.salesforcedx-vscode-visualforce, startup: false, activationEvent: 'workspaceContains:sfdx-project.json'
+2023-09-24 10:27:29.398 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-24 10:27:29.551 [info] ExtensionService#_doActivateExtension salesforce.salesforcedx-vscode-apex-debugger, startup: false, activationEvent: 'workspaceContains:sfdx-project.json'
+2023-09-24 10:27:38.696 [info] ExtensionService#_doActivateExtension salesforce.salesforcedx-vscode-apex-replay-debugger, startup: false, activationEvent: 'workspaceContains:sfdx-project.json'
+2023-09-24 10:27:49.954 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-24 10:27:50.016 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-09-24 10:27:56.385 [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.
+2023-09-24 10:27:56.397 [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.
+2023-09-24 10:27:56.411 [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.
+2023-09-24 10:28:09.144 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-24 10:28:09.259 [error] An error occurred when deactivating the extension 'salesforce.salesforcedx-vscode-core':
+2023-09-24 10:28:09.263 [error] TypeError: Cannot read properties of undefined (reading 'dispose')
+	at bp (c:\Users\shirash\.vscode\extensions\salesforce.salesforcedx-vscode-core-58.15.0\dist\index.js:89:4719)
+	at Object.Kk (c:\Users\shirash\.vscode\extensions\salesforce.salesforcedx-vscode-core-58.15.0\dist\index.js:113:14111)
+	at n.Z (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:118:9460)
+	at c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:118:7585
+	at Array.map (<anonymous>)
+	at n.S (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:118:7572)
+	at n.terminate (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:118:7844)
+	at o.terminate (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:122:1513)
+	at D (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:135:9800)
+	at MessagePortMain.<anonymous> (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:135:6225)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)
+2023-09-24 10:28:09.285 [error] Canceled: Canceled
+	at new h (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:57382)
+	at i.O (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:116:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:116:8289)
+	at r.g (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:82208)
+	at r.executeCommand (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:81646)
+	at u.registerCommand.description (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:80967)
+	at r.h (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:82744)
+	at r.g (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:81739)
+	at r.executeCommand (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:81646)
+	at Object.executeCommand (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:122:21247)
+	at c:\Users\shirash\.vscode\extensions\redhat.vscode-xml-0.26.1-win32-x64\dist\extension.js:2:280393
+	at r.invoke (c:\Users\shirash\.vscode\extensions\redhat.vscode-xml-0.26.1-win32-x64\dist\extension.js:2:567242)
+	at o.fire (c:\Users\shirash\.vscode\extensions\redhat.vscode-xml-0.26.1-win32-x64\dist\extension.js:2:568007)
+	at set $state [as $state] (c:\Users\shirash\.vscode\extensions\redhat.vscode-xml-0.26.1-win32-x64\dist\extension.js:2:339773)
+	at w.shutdown (c:\Users\shirash\.vscode\extensions\redhat.vscode-xml-0.26.1-win32-x64\dist\extension.js:2:351430) setContext undefined
+2023-09-24 10:28:11.000 [info] Extension host with pid 13832 started
+2023-09-24 10:28:11.000 [info] Skipping acquiring lock for c:\Users\shirash\Downloads\JS\todo-manager-lwc-master\tmp-code-cache\User\workspaceStorage\c4f0bb294137f8d398dbedb9eb7d8094.
+2023-09-24 10:28:11.065 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-09-24 10:28:11.233 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-09-24 10:28:11.272 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-24 10:28:11.296 [info] Eager extensions activated
+2023-09-24 10:28:11.306 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:28:11.311 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:28:11.324 [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:28:11.344 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:28:11.415 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-24 10:28:13.396 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-09-24 10:28:13.511 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:28:13.537 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-09-24 10:28:14.290 [info] Extension host with pid 10244 exiting with code 0
+2023-09-24 10:28:25.755 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-09-24 10:28:25.796 [info] ExtensionService#_doActivateExtension salesforce.salesforce-vscode-slds, startup: false, activationEvent: 'onLanguage:javascript'
+2023-09-24 10:28:25.906 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-24 10:29:31.345 [info] ExtensionService#_doActivateExtension redhat.vscode-xml, startup: false, activationEvent: 'onLanguage:xml'
+2023-09-24 10:29:32.156 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2023-09-24 10:29:33.209 [warning] [redhat.vscode-xml] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[xml]', provide the URI of a resource or 'null' for any resource.
+2023-09-24 10:29:35.158 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-24 10:29:35.203 [error] Canceled: Canceled
+	at new h (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:57382)
+	at i.O (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:116:10850)
+	at j.<computed>.T.charCodeAt.j.<computed> (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:116:8289)
+	at r.g (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:82208)
+	at r.executeCommand (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:81646)
+	at u.registerCommand.description (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:80967)
+	at r.h (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:82744)
+	at r.g (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:81739)
+	at r.executeCommand (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:107:81646)
+	at Object.executeCommand (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:122:21247)
+	at c:\Users\shirash\.vscode\extensions\redhat.vscode-xml-0.26.1-win32-x64\dist\extension.js:2:280393
+	at r.invoke (c:\Users\shirash\.vscode\extensions\redhat.vscode-xml-0.26.1-win32-x64\dist\extension.js:2:567242)
+	at o.fire (c:\Users\shirash\.vscode\extensions\redhat.vscode-xml-0.26.1-win32-x64\dist\extension.js:2:568007)
+	at set $state [as $state] (c:\Users\shirash\.vscode\extensions\redhat.vscode-xml-0.26.1-win32-x64\dist\extension.js:2:339773)
+	at w.shutdown (c:\Users\shirash\.vscode\extensions\redhat.vscode-xml-0.26.1-win32-x64\dist\extension.js:2:351430) setContext undefined
+2023-09-24 10:29:40.198 [info] Extension host with pid 13832 exiting with code 0

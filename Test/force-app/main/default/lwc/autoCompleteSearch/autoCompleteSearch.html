@@ -1,0 +1,41 @@
+<template>
+  <lightning-card title="Auto Complete Search" class="slds-listbox slds-listbox_vertical">
+    <lightning-input
+      placeholder="Search here"
+      type="search"
+      onchange={handleSearchChange}
+      value={searchKeyword}
+      onfocus={handleInputFocus}
+      onblur={handleInputBlur}    
+    ></lightning-input>
+      <ul
+        if:true={show}
+        class="slds-listbox slds-listbox_vertical"
+        role="listbox"
+      >
+        <template for:each={objectRecords} for:item="record">
+          <li key={record.Id} class="slds-listbox__item" role="listbox">
+            <div
+              class="slds-media slds-listbox__option slds-listbox__option_entity slds-listbox__option_has-meta"
+              role="listbox"
+             >
+              <span class="slds-media__figure slds-listbox__option-icon">
+                <lightning-icon
+                  icon-name={iconName}
+                  size="small"
+                ></lightning-icon>
+              </span>
+              <span class="slds-media__body">
+                <span class="slds-listbox__option-text_entity"
+                  >{record.Name}</span
+                >
+                <span class="slds-listbox__option-meta">
+                  {objectLabel}
+                </span>
+              </span>
+            </div>
+          </li>
+        </template>
+      </ul>
+  </lightning-card>
+</template>

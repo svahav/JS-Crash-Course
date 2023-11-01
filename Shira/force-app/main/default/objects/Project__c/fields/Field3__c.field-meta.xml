@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Field3__c</fullName>
+    <externalId>false</externalId>
+    <label>סטטוס פרויקט</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>חדש</fullName>
+                <default>false</default>
+                <label>חדש</label>
+            </value>
+            <value>
+                <fullName>הגדרת בסיס רישוי</fullName>
+                <default>false</default>
+                <label>הגדרת בסיס רישוי</label>
+            </value>
+            <value>
+                <fullName>פעיל</fullName>
+                <default>false</default>
+                <label>פעיל</label>
+            </value>
+            <value>
+                <fullName>ממתין לתשלום אגרה</fullName>
+                <default>false</default>
+                <label>ממתין לתשלום אגרה</label>
+            </value>
+            <value>
+                <fullName>הפקת תעודה</fullName>
+                <default>false</default>
+                <label>הפקת תעודה</label>
+            </value>
+            <value>
+                <fullName>נסגר</fullName>
+                <default>false</default>
+                <label>נסגר</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

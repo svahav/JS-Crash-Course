@@ -1,0 +1,34 @@
+["INFO" - 10:26:37 AM] Extension Name: esbenp.prettier-vscode.
+["INFO" - 10:26:37 AM] Extension Version: 10.1.0.
+["INFO" - 10:27:49 AM] Attempted to determine module path from c:\Users\shirash\Downloads\ProjectShiraToDoManager
+["ERROR" - 10:27:49 AM] Failed to load module. If you have prettier or plugins referenced in package.json, ensure you have run `npm install`
+["ERROR" - 10:27:49 AM] Cannot find module 'prettier' from 'c:\Users\shirash\Downloads\ProjectShiraToDoManager'
+Error: Cannot find module 'prettier' from 'c:\Users\shirash\Downloads\ProjectShiraToDoManager'
+	at e.exports [as sync] (c:\Users\shirash\.vscode\extensions\esbenp.prettier-vscode-10.1.0\dist\extension.js:1:40995)
+	at t.ModuleResolver.findPkg (c:\Users\shirash\.vscode\extensions\esbenp.prettier-vscode-10.1.0\dist\extension.js:1:8287)
+	at t.ModuleResolver.getPrettierInstance (c:\Users\shirash\.vscode\extensions\esbenp.prettier-vscode-10.1.0\dist\extension.js:1:4588)
+	at t.default.handleActiveTextEditorChanged (c:\Users\shirash\.vscode\extensions\esbenp.prettier-vscode-10.1.0\dist\extension.js:1:10771)
+	at n.handleActiveTextEditorChangedSync [as value] (c:\Users\shirash\.vscode\extensions\esbenp.prettier-vscode-10.1.0\dist\extension.js:1:10373)
+	at m.w (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:63:1902)
+	at m.x (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:63:1972)
+	at m.fire (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:63:2188)
+	at n.value (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:111:15850)
+	at m.w (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:63:1902)
+	at m.fire (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:63:2119)
+	at a.acceptDocumentsAndEditorsDelta (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:109:12599)
+	at a.$acceptDocumentsAndEditorsDelta (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:109:10970)
+	at i.N (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:116:10813)
+	at i.M (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:116:10579)
+	at i.H (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:116:9660)
+	at i.G (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:116:8736)
+	at n.value (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:116:7566)
+	at m.w (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:63:1902)
+	at m.fire (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:63:2119)
+	at w.fire (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:79:13940)
+	at n.value (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:135:7901)
+	at m.w (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:63:1902)
+	at m.fire (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:63:2119)
+	at w.fire (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:79:13940)
+	at MessagePortMain.<anonymous> (c:\Users\shirash\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\api\node\extensionHostProcess.js:135:6181)
+	at MessagePortMain.emit (node:events:513:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:367)

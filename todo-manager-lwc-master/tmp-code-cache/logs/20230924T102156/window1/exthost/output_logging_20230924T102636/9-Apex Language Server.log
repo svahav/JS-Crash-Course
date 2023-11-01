@@ -1,0 +1,26 @@
+10:27:49.954 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Scanning built-in and system Apex types.
+10:27:50.179 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Scanning built-in Apex types.
+10:27:50.191 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Collecting built-in standard types from jar
+Sep 24, 2023 10:27:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+10:28:01.613 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Done collecting built-in standard types from jar
+10:28:01.614 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Scanning Apex Standard Library.
+10:28:03.077 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Done scanning Apex Standard Library.
+10:28:03.080 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Starting ApexIndexer.
+10:28:03.092 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: Start indexer.
+10:28:03.093 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: Scanning user-defined types.
+10:28:03.093 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: Scanning workspace source.
+10:28:03.093 [Apex Prelude Service STARTING] INFO  a.j.l.i.s.ApexPreludeManagedService - Scanning built-in and system Apex types took 13155 ms.
+10:28:03.113 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: Loading existing resource files from apex.db.
+10:28:03.154 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: Building change list.
+10:28:03.215 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: Applying found changes
+10:28:03.216 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: Creating 16 Apex artifacts in Apex DB
+Sep 24, 2023 10:28:03 AM apex.jorje.parser.impl.BaseApexLexer dedupe
+INFO: Deduped array ApexLexer.DFA22_transition. Found 7075528 shorts which is 13MB not including array overhead. Removed 6418975 shorts which is 12MB not counting array overhead. Took 8 ms.
+10:28:04.952 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: StandardObjects: 16
+10:28:04.952 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: CustomObjects: 0
+10:28:04.952 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: ApexFiles: 0
+10:28:04.953 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: ErrorFiles: 0
+10:28:04.953 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: Total Memory (MB): 157
+10:28:04.953 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: Used Memory (MB): 80
+10:28:04.953 [ApexIndexer STARTING] INFO  a.jorje.lsp.impl.index.ApexIndexer - ApexIndexer: Scanning user-defined types took 1816 ms.

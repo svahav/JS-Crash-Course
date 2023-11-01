@@ -1,0 +1,8 @@
+.greeting-class{
+    color: green;
+
+}
+
+:host{
+    border: 5 pxl ; color: rgb(75, 182, 42);
+}
